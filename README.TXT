@@ -21,4 +21,16 @@ Folder Structure:
 /Project Design & Structure Charts
 - Full Size images of the charts and designs that are present in the project report.
 
-Each folder has corresponding README.TXT files, to detail how to work with the files in that folder.
+Each folder has corresponding README.TXT files, to detail how to work with the files and projects in that folder.
+
+Guides:
+-How to Build an application:
+ There is a build of each application in the Builds folder.
+ If you'de like to build a specific project, follow that projects readme file.
+ 
+-How to debug app on HoloLens.
+ First Build the HoloLens application using the readme in \Source Code & Unity Projects\HoloLens Grid Application\Cubes Test\README.txt
+ When the project is built, open the new App folder and open Cubes Test.sln in Visual Studio.
+ Select x86 and Remote Device in the Deployment target drop down.
+ If requested, input the settings for the HoloLens device.
+ Select Debug-> Start Debugging
