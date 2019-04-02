@@ -1,0 +1,1 @@
+This folder contains the Unity Projects and Source Code for both the server application and the HoloLens application.
